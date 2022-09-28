@@ -13,9 +13,9 @@
 
 # PAGINA RESPONSIVA
 <ul>
-<li>Mobile</li>
-<li>Tablet</li>
-<li>Computador</li>
+<li>MOBILE</li>
+<li>TABLET</li>
+<li>DESKTOP</li>
 </ul>
 
 # ACESSE O PROJETO
