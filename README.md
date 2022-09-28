@@ -8,8 +8,10 @@
 <p>Essa página foi desenvolvida durante o curso de 'HTML e CSS: responsividade vom mobile-firts' da escola de tecnologia Alura.</p>
 
 # TECNOLOGIAS USADAS
-![html](https://user-images.githubusercontent.com/113468784/190832921-832c5d07-d7e4-464c-a8b5-6f253800039a.svg)
-![css](https://user-images.githubusercontent.com/113468784/190832928-f027507a-1121-4e95-8890-3450f8664590.svg)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 # PAGINA RESPONSIVA
 <ul>
